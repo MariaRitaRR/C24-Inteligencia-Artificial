@@ -30,6 +30,7 @@ Atividades desenvolvidas ao longo do semestre com foco nos conteúdos apresentad
 | 05 | Regressão |
 | 06 | Classificação |
 | 07 | MLP e CNN |
+| 08 | RNN |
 
 ---
 
